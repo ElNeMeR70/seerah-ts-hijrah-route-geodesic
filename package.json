@@ -1,0 +1,11 @@
+{
+  "name": "seerah-ts-hijrah-route-geodesic",
+  "version": "1.0.0",
+  "description": "Prophetic Hijrah Route Waypoint Geodesic & Elevation Profiler (محلل مسار الهجرة النبوية الشريفة الجغرافي والمراحل)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
